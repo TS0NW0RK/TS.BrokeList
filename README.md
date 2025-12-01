@@ -7,7 +7,9 @@ Based on JB.party blacklistbegone, their Discord
 
 >[!WARNING]
 >Make a backup before using this tool **JUST IN CASE.** I am not responsible for any damages that this may cause to your device, so use at your own risk.
-
+>
+>[!WARNING]
+>This code is **VERY and VERY** unstable.
 >[!NOTE]
 >If your device is on a version newer than iOS 26.1, you will not be able to use this tool, and you never will be unless another exploit similar to SparseRestore/bl_sbx is released. 
 
