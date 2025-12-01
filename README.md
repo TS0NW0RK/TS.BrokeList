@@ -2,7 +2,10 @@
 Enterprise app blacklist remover using bl_sbx exploit, for iOS 17.0 - iOS 26.1.
 Based on JB.party blacklistbegone, their Discord
 <p align="left">
-  <strong><a href="https://discord.gg/XPj66zZ4gT">Join our Discord!</a></strong>
+  <strong><a href="https://discord.gg/XPj66zZ4gT">their discord</a></strong>
+</p>
+<p align="left">
+  <strong><a href="https://t.me/Melont1sJail">my telegram</a></strong>
 </p>
 
 >[!WARNING]
