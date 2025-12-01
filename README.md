@@ -23,5 +23,5 @@ Based on JB.party blacklistbegone, their Discord
 5. Profit. If your device doesn't reboot automatically, reboot it.
 
 ## Credits
-- [jailbreak.party] (https://github.com/jailbreakdotparty) for main code.
-- [khanduytran0] (https://github.com/khanhduytran0) for bl_sbx exploit.
+- [jailbreak.party](https://github.com/jailbreakdotparty) for main code.
+- [khanduytran0](https://github.com/khanhduytran0) for bl_sbx exploit.
