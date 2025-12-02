@@ -1,5 +1,5 @@
 # TS.BrokeList
-***DOESNT WORK**
+***DOESNT WORK***
 
 ## Credits
 - [jailbreak.party](https://github.com/jailbreakdotparty) for main code.
